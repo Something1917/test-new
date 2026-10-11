@@ -1,4 +1,3 @@
 for i in 1 2 3 4 5; do
   echo "line $i"
-  echo "line 5"
-done
+  
